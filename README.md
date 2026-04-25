@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, Ben İbrahim Şahingil 👋
 
-<!--
-**ibrahim-sahingil/ibrahim-sahingil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme ve siber güvenlik alanlarında temel becerilerimi inşa etmeye odaklanmış durumdayım.
 
-Here are some ideas to get you started:
+### 💻 Nelerle İlgileniyorum?
+- **Programlama:** Java (OOP, Veri Yapıları) ve MIPS Assembly üzerine aktif çalışmalar yapıyorum.
+- **Sistem ve Ağ:** Linux (Ubuntu) ortamında sistem yönetimi ve CompTIA A+ Core 1 sertifika hazırlığı içerisindeyim.
+- **Dijital Tasarım:** Proteus üzerinden mantık devreleri ve dijital sistem tasarımları gerçekleştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Şu Anki Odak Noktam
+- Yazılım dünyasında temiz kod (clean code) prensiplerini öğrenmek.
+- Siber güvenlik temellerini ve ağ güvenliğini projelerle pekiştirmek.
+
+### 📫 Bana Ulaşın:
+- **E-posta:** ibrahim.sahingil.dev@gmail.com
+- **LinkedIn:** [Profil linkini LinkedIn hesabını açınca buraya ekleyeceğiz]
