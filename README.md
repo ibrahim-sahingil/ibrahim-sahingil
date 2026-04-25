@@ -13,4 +13,4 @@ Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme ve siber güvenl
 
 ### 📫 Bana Ulaşın:
 - **E-posta:** ibrahim.sahingil.dev@gmail.com
-- **LinkedIn:** [Profil linkini LinkedIn hesabını açınca buraya ekleyeceğiz]
+- **LinkedIn:** https://www.linkedin.com/in/ibrahim-sahingil
