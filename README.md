@@ -1,16 +1,27 @@
-# Merhaba, Ben İbrahim Şahingil 👋
+# Merhaba, Ben İbrahim ŞAHİNGİL 👋
 
-Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme ve siber güvenlik alanlarında temel becerilerimi inşa etmeye odaklanmış durumdayım.
+Fırat Üniversitesi'nde Bilgisayar Mühendisliği lisans eğitimime devam ediyorum. Özellikle **Arka Uç (Backend) Geliştirme** ve **Siber Güvenlik** alanlarına odaklanıyor; ölçeklenebilir, güvenli ve sürdürülebilir sistem mimarileri inşa etmek üzerine çalışıyorum.
 
-### 💻 Nelerle İlgileniyorum?
-- **Programlama:** Java (OOP, Veri Yapıları) ve MIPS Assembly üzerine aktif çalışmalar yapıyorum.
-- **Sistem ve Ağ:** Linux (Ubuntu) ortamında sistem yönetimi ve CompTIA A+ Core 1 sertifika hazırlığı içerisindeyim.
-- **Dijital Tasarım:** Proteus üzerinden mantık devreleri ve dijital sistem tasarımları gerçekleştiriyorum.
+### 🚀 Nelerle İlgileniyorum?
 
-### 🚀 Şu Anki Odak Noktam
-- Yazılım dünyasında temiz kod (clean code) prensiplerini öğrenmek.
-- Siber güvenlik temellerini ve ağ güvenliğini projelerle pekiştirmek.
+* 💻 **Yazılım Geliştirme:** Java, Spring Boot ve PostgreSQL kullanarak sağlam ve güvenli arka uç (backend) sistemleri geliştiriyorum.
+* 🛡️ **Sistem ve Siber Güvenlik:** Linux (Ubuntu) ortamında izole ağ laboratuvarları kuruyor; CompTIA (A+, Network+, Security+) hedeflerim doğrultusunda ağ güvenliği pratikleri yapıyorum.
+* 👁️ **Görüntü İşleme:** Java ve OpenCV kullanarak video içeriklerini analiz eden otomasyon araçları geliştiriyorum.
+* ⚙️ **Dijital Tasarım ve Donanım:** Proteus, ModelSim ve VHDL kullanarak dijital sistem mimarilerini donanım düzeyinde modelliyorum.
 
-### 📫 Bana Ulaşın:
+### 🎯 Şu Anki Odak Noktam
+
+- Spring Boot ve PostgreSQL ile geliştirdiğim **Üretim Takip (ERP) Sistemi** mimarisini ve Spring Security entegrasyonlarını optimize etmek.
+- Temiz kod (Clean Code) prensiplerine ve SOLID standartlarına uygun projeler üretmek.
+- Kurduğum VirtualBox Linux laboratuvarında port konfigürasyonları ve siber güvenlik test senaryolarını pekiştirmek.
+
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+**Diller & Veritabanı:** Java, SQL (PostgreSQL), VHDL, MATLAB  
+**Framework & Kütüphaneler:** Spring Boot, OpenCV  
+**Araçlar:** IntelliJ IDEA, DBeaver, Proteus, ModelSim, VirtualBox, Git, Linux (Ubuntu)
+
+### 📫 Bana Ulaşın
+
 - **E-posta:** ibrahim.sahingil.dev@gmail.com
-- **LinkedIn:** [linkedin.com/in/ibrahim-sahingil](https://www.linkedin.com/in/ibrahim-sahingil/)
+- **LinkedIn:** [linkedin.com/in/ibrahim-sahingil](https://linkedin.com/in/ibrahim-sahingil)
